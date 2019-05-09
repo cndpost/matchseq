@@ -17,5 +17,6 @@
        to process the test files based on its encoding used. Here my test file is encoded in UTF8
 
    4.2 I am using the naive search function of strstr() as the basic matching algorithm. A better way
-       would be using a custom made variation of the KMP or Royal More algorithm for this purpose. 
+       would be using a custom made variation of the KMP, Rabin-Karp, or Boyer Moore algorithm for this 
+       purpose. 
 
